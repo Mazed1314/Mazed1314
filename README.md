@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D5616AQGOvHaXb0q5xQ/profile-displaybackgroundimage-shrink_350_1400/0/1719347391659?e=1725494400&v=beta&t=bRtVoaQ1q9ko1NPzz1_aU8axTtqDaMQPz3VzhfJFN8M" alt="Here is a little bit about me!">
+
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mazed1314.mazed1314" />
@@ -5,8 +7,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Mazed!;" />
 </h1>
-
-<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <br/>
 
