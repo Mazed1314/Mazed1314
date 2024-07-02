@@ -27,7 +27,10 @@
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abdul-mazed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdul-mazed" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mazedkhan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mazedkhan03" height="30" width="40" /></a>
+    <a href="https://instagram.com/https://https://www.facebook.com/profile.php?id=100081633703122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.instagram.com/mazedkhan03" height="30" width="40" /></a>
 </p>
+
+
 
 
 
