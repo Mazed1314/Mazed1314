@@ -20,7 +20,7 @@
 <p>🖥️ Currently using: I'm currntly work with Next Js.</p>
 
 <h3 align="left">📊 **Streak Stats**</h3>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mazed1314&theme=dark" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mazed1314&theme=radical" alt="GitHub Streak" /></a></p>
 
 <h3 align="left">🔧 **Skills**</h3>
     <div align="center"> 
