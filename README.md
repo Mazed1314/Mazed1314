@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQFACBd-JHa6jg/profile-displaybackgroundimage-shrink_350_1400/0/1720278384700?e=1725494400&v=beta&t=GaPXqc-oI1BRr4bCJSC5QGfBMeAzNSfg_Sc7yMWr34o" alt="Here is a little bit about me!">
+<img src="https://i.ibb.co/S6w2kH0/Abdul-Mazed.png" alt="Here is a little bit about me!">
 
 
 
