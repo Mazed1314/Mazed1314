@@ -37,9 +37,10 @@
 
 <h3 align="left">📫 **Connect with Me**</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdul-mazed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdul-mazed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mazedkhan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mazedkhan03" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100081633703122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081633703122" height="30" width="40" /></a>
+    
+[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/profile.php?id=100081633703122/)
+[<img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/abdul-mazed/)
+
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
