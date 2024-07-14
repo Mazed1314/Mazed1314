@@ -28,10 +28,17 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css) <br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) <br/>
+![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql) <br/>
+![JWT](https://img.shields.io/badge/-JWT-333?style=flat&logo=json-web-tokens)
+![Stripe](https://img.shields.io/badge/-Stripe-333?style=flat&logo=stripe)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
         
 </div>
 
