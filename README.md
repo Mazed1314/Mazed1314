@@ -44,10 +44,12 @@
 
 <h3 align="left">📫 **Connect with Me**</h3>
 <p align="center">
-    
-[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/profile.php?id=100081633703122/)
-[<img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/abdul-mazed/)
-
+  <a href="https://www.linkedin.com/in/abdul-mazed/" target="_blank">
+    <img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100081633703122" target="_blank">
+    <img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png" alt="Facebook" />
+  </a>
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
